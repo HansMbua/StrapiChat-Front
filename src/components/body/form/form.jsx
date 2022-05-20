@@ -8,6 +8,7 @@ const forms = ()=>{
 
             <form action='/' method="GET">
                   <ul>
+                    <h1>Sign in to your workspace</h1>
                   <li>
                     <label for="Username">Username:</label>
                     <input type="text" name="user-name" id="username" required />

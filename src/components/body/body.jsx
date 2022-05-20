@@ -7,6 +7,7 @@ const BODY = () => {
     return(
     <div className = 'container'>
         <Header/>
+        
         <FORM/>
     </div>
     )
