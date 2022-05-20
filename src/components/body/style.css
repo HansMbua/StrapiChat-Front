@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Corinthia&family=Oleo+Script&family=Open+Sans:wght@300&family=Roboto:wght@400;700&display=swap');
+
+body{
+
+    background-color:rgb(238, 227, 227);
+
+}
+.container{
+font-family: "Roboto",sans-serif;
+margin: 0 auto;
+margin-top:10%;
+width: 40%;
+padding-top: 2rem;
+border-radius:6px;
+
+
+
+}
