@@ -20,7 +20,7 @@ const forms = ()=>{
                   </li>
 
                   <li className="bottons">
-                  <button type="submit">Sign up</button>
+                  <button type="submit"><a href="#">Sign up</a></button>
                   <button type="submit">Login</button>
 
                   </li>

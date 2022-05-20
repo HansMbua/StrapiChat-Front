@@ -25,6 +25,10 @@ ul{
        font-size: 0.8em;
        margin-left: 12.5rem;
     }
+   button a{
+        text-decoration: none;
+        color: white;
+    }
     
     label {
         
@@ -48,7 +52,7 @@ ul{
     
     }
     button:hover{
-        background-color: rgb(108, 35, 192);
+        background-color: rgb(139, 78, 78);
         border-color: rgb(112, 64, 167);
     }
 
