@@ -6,7 +6,7 @@ const forms = ()=>{
     return(
         <div className="forms">
 
-            <form action='/' method="GET">
+            <form action='/' method="POST">
                   <ul>
                     <h1>Sign in to your workspace</h1>
                   <li>
